@@ -8,6 +8,7 @@ public class Day2 {
 		System.out.println(s.indexOf('x'));
 		System.out.println(s.indexOf("dra"));
 		System.out.println(s.indexOf("dra",12));
+		System.out.println("My Name is Babajee");
 		
 	}
 
